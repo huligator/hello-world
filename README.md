@@ -1,2 +1,3 @@
 # hello-world
-First one
+I'am beginner Github user. 
+Take me to the moon or higher.
